@@ -4,7 +4,7 @@
 
 url: http://gvtools.org
 title: GVTools
-subtitle: Software for GVSU students by GVSU students
+subtitle: Software <span class="subtitle-emph">for</span> GVSU students <span class="subtitle-emph">by</span> GVSU students
 author: GVTools Contributors
 simple_search: https://www.google.com/search
 description:
