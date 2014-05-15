@@ -52,17 +52,17 @@ h1 {
 }
 
 .categories {
-  color: $brick;
+  color: $blue;
   .category {
-    background-color: $darkBrick;
+    background-color: $darkBlue;
     display: inline-block;
     padding: 0px 10px;
     margin-right: 10px;
-    color: $yellow;
+    color: $lightBlue;
     text-decoration: none;
     &:hover {
-      background-color: $yellow;
-      color: $darkBrick;
+      background-color: $lightBlue;
+      color: $darkBlue;
     }
   }
 }
@@ -145,7 +145,7 @@ blockquote {
   font-size: 1em;
   line-height: 1.3em;
   padding-left: 1em;
-  border-left: 4px solid $darkBrick;
+  border-left: 4px solid $darkBlue;
   cite {
     font-style: italic;
     a { color: $text-color-light !important; word-wrap: break-word; }

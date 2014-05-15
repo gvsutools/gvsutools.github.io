@@ -2,7 +2,7 @@ body > footer {
   @extend .sans;
   font-size: .8em;
   color: $white;
-  background-color: $darkBrick;
+  background-color: $darkBlue;
   position: relative;
   padding-top: 1em;
   padding-bottom: 1em;
@@ -10,6 +10,6 @@ body > footer {
   z-index: 1;
   p:last-child { margin-bottom: 0; }
   a:hover {
-    color: $lightBrick;
+    color: $lightBlue;
   }
 }
