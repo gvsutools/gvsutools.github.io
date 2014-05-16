@@ -7,3 +7,4 @@ TODO
 * Add people page.
 * Add BetterPlanner page.
 * Reduce execessive header space.
+* Fix toggle sidebar.
