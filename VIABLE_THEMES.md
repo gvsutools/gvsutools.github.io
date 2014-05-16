@@ -5,5 +5,6 @@ Viable Themes
 * OctoFound
 * Oscailte
 * Octopress Flat
+* Octoflat (dark scheme)
 * Octostrap3
 * villainy
