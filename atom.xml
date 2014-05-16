@@ -3,7 +3,7 @@
   <title><![CDATA[GVTools]]></title>
   <link href="http://gvtools.org/atom.xml" rel="self"/>
   <link href="http://gvtools.org/"/>
-  <updated>2014-05-15T20:18:28-04:00</updated>
+  <updated>2014-05-16T11:30:15-04:00</updated>
   <id>http://gvtools.org/</id>
   <author>
     <name><![CDATA[GVTools Contributors]]></name>
@@ -11,5 +11,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://gvtools.org/blog/2014/05/16/hello-world/"/>
+    <updated>2014-05-16T11:24:30-04:00</updated>
+    <id>http://gvtools.org/blog/2014/05/16/hello-world</id>
+    <content type="html"><![CDATA[<p>Welcome to the new site of GVTools! Dan and I have been working on the site in order to provide a landing page for releasing BetterPlanner, GVTools&#8217; first piece of software.</p>
+
+<p>The site is written using <a href="http://octopress.org/">Octopress</a>, a static site generator built on GitHub&rsquo;s <a href="http://jekyllrb.com/">Jekyll</a> generator. Expect some changes as we get used to this new tooling and learn how to style our site.</p>
+
+<p>We look forward to seeing you in the future!</p>
+]]></content>
+  </entry>
   
 </feed>
