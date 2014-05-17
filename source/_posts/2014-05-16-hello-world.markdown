@@ -4,6 +4,7 @@ title: "Hello World!"
 date: 2014-05-16 11:24:30 -0400
 comments: true
 categories:
+author: Sean Fisk
 ---
 
 Welcome to the new site of GVTools! Dan and I have been working on the site in order to provide a landing page for releasing BetterPlanner, GVTools' first piece of software.
