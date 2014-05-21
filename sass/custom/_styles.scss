@@ -6,3 +6,29 @@
 .subtitle-emph {
   color: $lightBlue;
 }
+
+/* Team page */
+
+.member {
+  line-height: 1.4em;
+  margin-top: 1.5em;
+  clear: both;
+
+  .name {
+    margin-bottom: 0.5em;
+    a {
+      font-weight: bold;
+    }
+  }
+
+  img {
+    margin-right: 1em;
+
+    &.left {
+      float: left;
+    }
+    &.right {
+      float: right;
+    }
+  }
+}
