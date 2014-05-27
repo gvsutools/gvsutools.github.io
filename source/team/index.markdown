@@ -11,9 +11,9 @@ footer: true
 <figcaption style="text-align: center">The GVTools Team<br /><small>(Left to right: Dan Kelch, Darin Douglass, Sean Fisk, Spencer Amann, Eric Vanklompenberg, Melissa Ellis)</small></figcaption>
 </figure>
 
-<!-- Just an idea -->
+<!-- We had an idea to create an image map where each participant can be clicked, sending the visitor to the participant's bio. However, our layout supports auto-resizing of images, which kind of ruins the image map thing. -->
 <!-- <map name="team-map"> -->
-<!-- <area href="#sean-fisk" alt="Dan Kelch" shape="poly" coords="250,103,216,109,197,132,187,150,190,210,204,246,187,266,111,295,86,314,67,342,56,407,36,453,48,466,66,591,101,677,101,753,137,775,137,773,167,934,177,1047,189,1101,170,1184,186,1221,210,1226,230,1220,387,1161,388,1140,326,1075,342,921,395,915,376,561,335,448,344,311,298,284,287,270,315,226,318,166,308,124,279,108" /> -->
+<!-- <area href="#sean-fisk" alt="Sean Fisk" shape="poly" coords="..." /> -->
 <!-- </map> -->
 
 <!-- Class block is a Discount extension; see http://www.pell.portland.or.us/~orc/Code/discount/#Language.extensions -->
