@@ -8,7 +8,7 @@ footer: true
 
 <figure>
 <img src="/images/team/team.jpg" alt="GVTools Team" usemap="#team-map" />
-<figcaption style="text-align: center">The GVTools Team<br /><small>(Left to right: Dan Kelch, Darin Douglass, Sean Fisk, Spencer Amann, Eric Vanklompenberg, Melissa Ellis)</small></figcaption>
+<figcaption style="text-align: center">The GVTools Team<br /><small>(Left to right: <a href="#dan-kelch">Dan Kelch</a>, <a href="#darin-douglass">Darin Douglass</a>, <a href="#sean-fisk">Sean Fisk</a>, <a href="#spencer-amann">Spencer Amann</a>, <a href="#eric-vanklompenberg">Eric Vanklompenberg</a>, <a href="#melissa-ellis">Melissa Ellis</a>)</small></figcaption>
 </figure>
 
 <!-- We had an idea to create an image map where each participant can be clicked, sending the visitor to the participant's bio. However, our layout supports auto-resizing of images, which kind of ruins the image map thing. -->
