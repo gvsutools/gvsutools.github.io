@@ -8,7 +8,7 @@ footer: true
 
 <figure>
 <img src="/images/team/team.jpg" alt="GVTools Team" usemap="#team-map" />
-<figcaption style="text-align: center">The GVTools Team<br /><small>(Left to right: <a href="#dan-kelch">Dan Kelch</a>, <a href="#darin-douglass">Darin Douglass</a>, <a href="#sean-fisk">Sean Fisk</a>, <a href="#spencer-amann">Spencer Amann</a>, <a href="#eric-vanklompenberg">Eric Vanklompenberg</a>, <a href="#melissa-ellis">Melissa Ellis</a>)</small></figcaption>
+<figcaption style="text-align: center">The GVTools Team<br /><small>(Left to right: <a href="#dan-kelch">Dan Kelch</a>, <a href="#darin-douglass">Darin Douglass</a>, <a href="#sean-fisk">Sean Fisk</a>, <a href="#spencer-amann">Spencer Amann</a>, <a href="#eric-vanklompenberg">Eric VanKlompenberg</a>, <a href="#melissa-ellis">Melissa Ellis</a>)</small></figcaption>
 </figure>
 
 <!-- We had an idea to create an image map where each participant can be clicked, sending the visitor to the participant's bio. However, our layout supports auto-resizing of images, which kind of ruins the image map thing. -->
@@ -27,8 +27,8 @@ footer: true
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Foo Barrington" class="right" /><p class="name"><strong>Foo Barrington</strong>  (Developer, 2013 - Present)</p>
-> Sean founded GVTools in 2011 while working on his undergraduate at GVSU. He graduated with a BS in Computer Science in 2012 followed by an MS in Computer Science in 2014, both from GVSU. While study for his degrees, Sean held two internships at local software development company [Atomic Object][ao] as well as traveling to Boulder, CO for an internship at the [National Center for Atomspheric Research][ncar]. Sean's interests include compilers, automation, and high-performance computing. Outside of programming, Sean enjoys hiking, biking, skiing, disc golf, signing, drumming, and playing guitar.
+> <img src="http://placekitten.com/200/200" alt="Eric VanKlompenberg" class="right" /><p class="name"><strong>Eric VanKlompenberg</strong>  (Developer, 2013 - Present)</p>
+> Eric joined GVTools in the Fall of 2013. He is working on a BS in Computer Science. He is also a proud member of the Laker Marching Band. Some of Eric's hobbies include, playing the trombone, playing video games, and working on cars.
 
 <!-- This comment serves to break up the block quote -->
 > %member%
