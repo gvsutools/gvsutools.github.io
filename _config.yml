@@ -58,6 +58,9 @@ default_asides: [asides/recent_posts.html, custom/asides/blogroll.html, asides/g
 # post_asides:
 # page_asides:
 
+# Layouts
+sidebar: collapse
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
