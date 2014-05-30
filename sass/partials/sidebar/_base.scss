@@ -3,7 +3,7 @@
 // }
 aside.sidebar {
   overflow: hidden;
-  color: $white;
+  color: $textColor;
   a { @extend .force-wrap; }
   section {
     @extend .sans;
@@ -36,7 +36,7 @@ aside.sidebar {
     }
   }
   a {
-    color: $white;
+    color: $textColor;
     text-decoration: none;
     @include transition(color .5s);
   }
