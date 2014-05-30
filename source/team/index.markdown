@@ -19,18 +19,18 @@ footer: true
 <!-- Class block is a Discount extension; see http://www.pell.portland.or.us/~orc/Code/discount/#Language.extensions -->
 
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Sean Fisk" class="left" /><p class="name"><a id="sean-fisk">Sean Fisk</a>  (Project Lead, 2011 - Present)</p>
-> Sean founded GVTools in 2011 while working on his undergraduate at GVSU. He graduated with a BS in Computer Science in 2012 followed by an MS in Computer Science in 2014, both from GVSU. While study for his degrees, Sean held two internships at local software development company [Atomic Object][ao] as well as traveling to Boulder, CO for an internship at the [National Center for Atomspheric Research][ncar]. Sean's interests include compilers, automation, and high-performance computing. Outside of programming, Sean enjoys hiking, biking, skiing, disc golf, signing, drumming, and playing guitar.
+> <img src="http://placekitten.com/200/200" alt="Sean Fisk" class="left" /><p class="name"><a id="sean-fisk">Sean Fisk</a>  (Project Lead, Fall 2011 - Present)</p>
+> Sean founded GVTools in 2011 while working on his undergraduate at GVSU. He graduated with a BS in Computer Science in 2012 followed by an MS in Computer Science in 2014, both from GVSU. While study for his degrees, Sean held two internships at local software development company [Atomic Object][ao] as well as traveling to Boulder, CO for an internship at the [National Center for Atomspheric Research][ncar]. He was also a member of the Laker Marching Band on snare drum for 6 years. Sean's interests include compilers, automation, and high-performance computing. Outside of programming, Sean enjoys biking, skiing, disc golf, singing, and playing guitar.
 
 [ao]: http://atomicobject.com/
 [ncar]: http://ncar.ucar.edu/
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Eric VanKlompenberg" class="right" /><p class="name"><strong>Eric VanKlompenberg</strong>  (Developer, 2013 - Present)</p>
-> Eric joined GVTools in the Fall of 2013. He is working on a BS in Computer Science. He is also a proud member of the Laker Marching Band. Some of Eric's hobbies include, playing the trombone, playing video games, and working on cars.
+> <img src="http://placekitten.com/200/200" alt="Eric VanKlompenberg" class="right" /><p class="name"><a id="eric-vanklompenberg">Eric VanKlompenberg</a>  (Developer, 2013 - Present)</p>
+> Eric joined GVTools in the Fall of 2013. He is working on a BS in Computer Science. He is also a proud member of the Laker Marching Band. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Dan Kelch" class="left" /><p class="name"><strong>Dan Kelch</strong>  (Developer, Winter 2013 - Present)</p>
+> <img src="http://placekitten.com/200/200" alt="Dan Kelch" class="left" /><p class="name"><a id="dan-kelch">Dan Kelch</a>  (Developer, 2013 - Present)</p>
 > Dan joined the GVTools team in December 2013. He came to GVSU with the intention of pursuing a career in the medical field. He was initially taking classes in preparation for nursing school, and was even a Certified Nursing Assistant (CNA). However, early in 2013, he decided that a career in computer science would better suit his interests, and switched degrees. He still is interested in the medical field, and would like to combine computers and medicine, and plans to do that with a masters degree in bioinformatics. Dan loves to experience many different activities outside of coding, such as playing tennis, raquetball, golf, disc golf, softball, and just about any other sport. He enjoys backpacking, camping, and mountain biking, and loves to travel around the world doing these things. He also keeps busy playing piano, guitar, and ukulele, building and riding longboards and skateboards, knitting, and looking at funny cat pictures on the internet.
