@@ -3,6 +3,8 @@
 
 @import 'base/theme';
 
+@import "compass/utilities/general/clearfix";
+
 .subtitle-emph {
   color: $lightBlue;
 }
@@ -11,8 +13,14 @@
 
 .member {
   line-height: 1.4em;
-  margin-top: 1.5em;
-  clear: both;
+  margin-top: 1em;
+
+  /*
+     Clearfix hack; see <http://compass-style.org/reference/compass/utilities/general/clearfix/>
+     Regular clearfix doesn't work well as it forces the contents toward the bottom.
+  */
+
+  @include pie-clearfix;
 
   .name {
     margin-bottom: 0.5em;
