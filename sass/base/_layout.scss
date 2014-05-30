@@ -95,7 +95,6 @@ body {
 aside.sidebar {
   float: none;
   @extend .group;
-  padding: 2em 5px;
 }
 
 .flex-content { max-width: 100%; height: auto; }
@@ -140,7 +139,6 @@ body.sidebar-footer {
     .collapse-sidebar & { margin-right: 20px; }
     > div, > article {
       padding-top: $pad-medium/2;
-      padding-bottom: $pad-medium/2;
       float: left;
     }
   }
@@ -166,7 +164,6 @@ body.sidebar-footer {
   #content {
     > div, > article {
       padding-top: $pad-wide/2;
-      padding-bottom: $pad-wide/2;
     }
   }
   aside.sidebar {
