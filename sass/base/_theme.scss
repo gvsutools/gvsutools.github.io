@@ -16,10 +16,12 @@ $white: #fff !default;
 $black: #000 !default;
 $yellow: #ffeb90 !default;
 
+$textColor: #fffaef !default;
 //original colors vvvvvvv
 
 $noise-bg: image-url('noise.png') top left !default;
 $img-border: inline-image('dotted-border.png');
+
 
 // Main Link Colors
 $link-color: $lightBlue;
@@ -53,7 +55,7 @@ $nav-placeholder: desaturate(darken($nav-bg, 10), 15) !default;
 
 /* Sidebar colors */
 $sidebar-bg: $darkBlue !default;
-$sidebar-link-color: $white !default;
+$sidebar-link-color: $textColor !default;
 $sidebar-link-color-hover: $darkBlue !default;
 $sidebar-link-color-active: $darkBlue !default;
 $sidebar-color: change-color(mix($text-color, $sidebar-bg, 80), $hue: hue($sidebar-bg), $saturation: saturation($sidebar-bg)/2) !default;
