@@ -27,15 +27,15 @@ footer: true
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Eric VanKlompenberg" class="right" /><p class="name"><a id="eric-vanklompenberg">Eric VanKlompenberg</a>  (Developer, 2013 - Present)</p>
-> Eric joined GVTools in the Fall of 2013. He is working on a BS in Computer Science. He is also a proud member of the Laker Marching Band. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
+> <img src="http://placekitten.com/200/200" alt="Eric VanKlompenberg" class="right" /><p class="name"><a id="eric-vanklompenberg">Eric VanKlompenberg</a>  (Developer, Fall 2013 - Present)</p>
+> Eric joined GVTools in Fall 2013. He is working on a BS in Computer Science. He is also a proud member of the Laker Marching Band. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Dan Kelch" class="left" /><p class="name"><a id="dan-kelch">Dan Kelch</a>  (Developer, 2013 - Present)</p>
-> Dan joined the GVTools team in December 2013. He came to GVSU with the intention of pursuing a career in the medical field. He was initially taking classes in preparation for nursing school, and was even a Certified Nursing Assistant (CNA). However, early in 2013, he decided that a career in computer science would better suit his interests, and switched degrees. He still is interested in the medical field, and would like to combine computers and medicine, and plans to do that with a masters degree in bioinformatics. Dan loves to spend time outside backpacking, camping, mountain biking, skateboarding, and playing all kinds of sports. He also keeps busy building skateboards, knitting, playing several instruments, and looking at funny cat pictures on the internet.
+> <img src="http://placekitten.com/200/200" alt="Dan Kelch" class="left" /><p class="name"><a id="dan-kelch">Dan Kelch</a>  (Developer, Winter 2014 - Present)</p>
+> Dan joined the GVTools team in Winter 2014. He came to GVSU with the intention of pursuing a career in the medical field. He was initially taking classes in preparation for nursing school, and was even a Certified Nursing Assistant (CNA). However, early in 2013, he decided that a career in computer science would better suit his interests, and switched degrees. He still is interested in the medical field, and would like to combine computers and medicine, and plans to do that with a masters degree in bioinformatics. Dan loves to spend time outside backpacking, camping, mountain biking, skateboarding, and playing all kinds of sports. He also keeps busy building skateboards, knitting, playing several instruments, and looking at funny cat pictures on the internet.
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="/images/team/melissa-ellis.jpg" alt="Melissa Ellis" class="right" /><p class="name"><a id="melissa-ellis">Melissa Ellis</a>  (Graphic Designer, 2013 - Present)</p>
+> <img src="/images/team/melissa-ellis.jpg" alt="Melissa Ellis" class="right" /><p class="name"><a id="melissa-ellis">Melissa Ellis</a>  (Graphic Designer, Winter 2013 - Present)</p>
 > Melissa Ellis joined GVTools in Winter 2013 as graphic designer. Among other work, she is responsible for designing and creating the BetterPlanner logo. She is currently a student at GVSU for Art Education, and plans on graduating in Winter 2014 and using her degree to become the coolest teacher ever!
