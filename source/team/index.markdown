@@ -20,7 +20,7 @@ footer: true
 
 > %member%
 > <img src="http://placekitten.com/200/200" alt="Sean Fisk" class="left" /><p class="name"><a id="sean-fisk">Sean Fisk</a>  (Project Lead, Fall 2011 - Present)</p>
-> Sean founded GVTools in 2011 while working on his undergraduate at GVSU. He graduated with a BS in Computer Science in 2012 followed by an MS in Computer Science in 2014, both from GVSU. While study for his degrees, Sean held two internships at local software development company [Atomic Object][ao] as well as traveling to Boulder, CO for an internship at the [National Center for Atomspheric Research][ncar]. He was also a member of the Laker Marching Band on snare drum for 6 years. Sean's interests include compilers, automation, and high-performance computing. Outside of programming, Sean enjoys biking, skiing, disc golf, singing, and playing guitar.
+> Sean founded GVTools in 2011 while working on his undergraduate at GVSU. He graduated with a BS in Computer Science in 2012 followed by an MS in Computer Science in 2014, both from GVSU. While studying for his degrees, Sean held two internships at local software development company [Atomic Object][ao] as well as traveling to Boulder, CO for an internship at the [National Center for Atomspheric Research][ncar]. He was also a member of the Laker Marching Band on snare drum for 6 years. Sean's interests include compilers, automation, and high-performance computing. Outside of programming, Sean enjoys biking, skiing, disc golf, singing, and playing guitar.
 
 [ao]: http://atomicobject.com/
 [ncar]: http://ncar.ucar.edu/
