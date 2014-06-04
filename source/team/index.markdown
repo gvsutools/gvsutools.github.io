@@ -43,4 +43,4 @@ footer: true
 <!-- This comment serves to break up the block quote -->
 > %member%
 > <img src="/images/team/melissa-ellis.jpg" alt="Melissa Ellis" class="left" /><p class="name"><a id="melissa-ellis">Melissa Ellis</a>  (Graphic Designer, Winter 2013 - Present)</p>
-> Melissa Ellis joined GVTools in Winter 2013 as graphic designer. Among other work, she is responsible for designing and creating the BetterPlanner logo. She is currently a student at GVSU for Art Education, and plans on graduating in Winter 2014 and using her degree to become the coolest teacher ever!
+> Melissa joined GVTools in Winter 2013 as graphic designer. Among other work, she is responsible for designing and creating the BetterPlanner logo. She is currently a student at GVSU for Art Education, and plans on graduating in Winter 2014 and using her degree to become the coolest teacher ever!
