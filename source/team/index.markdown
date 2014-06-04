@@ -19,7 +19,7 @@ footer: true
 <!-- Class block is a Discount extension; see http://www.pell.portland.or.us/~orc/Code/discount/#Language.extensions -->
 
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Sean Fisk" class="left" /><p class="name"><a id="sean-fisk">Sean Fisk</a>  (Project Lead, Fall 2011 - Present)</p>
+> <img src="/images/team/sean-fisk.jpg" alt="Sean Fisk" class="left" /><p class="name"><a id="sean-fisk">Sean Fisk</a>  (Project Lead, Fall 2011 - Present)</p>
 > Sean founded GVTools in 2011 while working on his undergraduate at GVSU. He graduated with a BS in Computer Science in 2012 followed by an MS in Computer Science in 2014, both from GVSU. While studying for his degrees, Sean held two internships at local software development company [Atomic Object][ao] as well as traveling to Boulder, CO for an internship at the [National Center for Atomspheric Research][ncar]. He was also a member of the Laker Marching Band on snare drum for 6 years. Sean's interests include compilers, automation, and high-performance computing. Outside of programming, Sean enjoys biking, skiing, disc golf, singing, and playing guitar.
 
 [ao]: http://atomicobject.com/
@@ -27,10 +27,15 @@ footer: true
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Eric VanKlompenberg" class="right" /><p class="name"><a id="eric-vanklompenberg">Eric VanKlompenberg</a>  (Developer, 2013 - Present)</p>
-> Eric joined GVTools in the Fall of 2013. He is working on a BS in Computer Science. He is also a proud member of the Laker Marching Band. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
+> <img src="http://placekitten.com/200/200" alt="Eric VanKlompenberg" class="right" /><p class="name"><a id="eric-vanklompenberg">Eric VanKlompenberg</a>  (Developer, Fall 2013 - Present)</p>
+> Eric joined GVTools in Fall 2013. He is working on a BS in Computer Science. He is also a proud member of the Laker Marching Band. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Dan Kelch" class="left" /><p class="name"><a id="dan-kelch">Dan Kelch</a>  (Developer, 2013 - Present)</p>
+> <img src="http://placekitten.com/200/200" alt="Dan Kelch" class="left" /><p class="name"><a id="dan-kelch">Dan Kelch</a>  (Developer, Winter 2014 - Present)</p>
 > Dan joined the GVTools team in December 2013. He came to GVSU with the intention of pursuing a career in the medical field. He was initially taking classes in preparation for nursing school, and was even a Certified Nursing Assistant (CNA). In early 2013, he changed his career path and switched degrees to computer science. He is planning on getting a degree in bioinformatics, to combine computer science and medicine. Dan loves to spend time outside backpacking, camping, mountain biking, skateboarding, and playing all kinds of sports. He also keeps busy building skateboards, knitting, playing several instruments, and looking at funny cat pictures on the internet.
+
+<!-- This comment serves to break up the block quote -->
+> %member%
+> <img src="/images/team/melissa-ellis.jpg" alt="Melissa Ellis" class="right" /><p class="name"><a id="melissa-ellis">Melissa Ellis</a>  (Graphic Designer, Winter 2013 - Present)</p>
+> Melissa Ellis joined GVTools in Winter 2013 as graphic designer. Among other work, she is responsible for designing and creating the BetterPlanner logo. She is currently a student at GVSU for Art Education, and plans on graduating in Winter 2014 and using her degree to become the coolest teacher ever!
