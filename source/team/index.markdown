@@ -37,5 +37,10 @@ footer: true
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="/images/team/melissa-ellis.jpg" alt="Melissa Ellis" class="right" /><p class="name"><a id="melissa-ellis">Melissa Ellis</a>  (Graphic Designer, Winter 2013 - Present)</p>
+> <img src="http://placekitten.com/200/200" alt="Spencer Amann" class="right" /><p class="name"><a id="spencer-amann">Spencer Amann</a>  (Developer, Winter 2014 - Present)</p>
+> Spencer started working with GVTools in Winter 2014. His main interests in joining were to learn to develop in a team and to learn Python in depth outside of class. He has been attending GVSU since the Fall of 2012 for a major in Computer Science as well as a minor in Business. While not in school, reading Marvel Comics, programming, tinkering with software, cycling, and long boarding are the hobbies best enjoyed by Spencer. His favorite catch phrase is: 'Hulk smash!' said by none other than The Incredible Hulk.
+
+<!-- This comment serves to break up the block quote -->
+> %member%
+> <img src="/images/team/melissa-ellis.jpg" alt="Melissa Ellis" class="left" /><p class="name"><a id="melissa-ellis">Melissa Ellis</a>  (Graphic Designer, Winter 2013 - Present)</p>
 > Melissa Ellis joined GVTools in Winter 2013 as graphic designer. Among other work, she is responsible for designing and creating the BetterPlanner logo. She is currently a student at GVSU for Art Education, and plans on graduating in Winter 2014 and using her degree to become the coolest teacher ever!
