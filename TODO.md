@@ -6,6 +6,6 @@ TODO
 
 # Style
 
-* Make sidebar pull request to Octopress Flat.
+* Responsive layout nukes the nav bar when shrunk.
 * Re-color links so they look better. Probably should be more subtle, especially on the team page.
 * Make team page with floats more responsive.
