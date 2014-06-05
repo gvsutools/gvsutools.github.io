@@ -28,7 +28,7 @@ footer: true
 <!-- This comment serves to break up the block quote -->
 > %member%
 > <img src="http://placekitten.com/200/200" alt="Eric VanKlompenberg" class="right" /><p class="name"><a id="eric-vanklompenberg">Eric VanKlompenberg</a>  (Developer, Fall 2013 - Present)</p>
-> Eric joined GVTools in Fall 2013. He is working on a BS in Computer Science. He is also a proud member of the Laker Marching Band. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
+> Eric joined the GVTools team in Fall 2013. He wanted to join because it gave him something to do. He is working on a BS in Computer Science at GVSU. He is also a member of the Laker Marching Band for 2 years. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
 
 <!-- This comment serves to break up the block quote -->
 > %member%
@@ -37,7 +37,7 @@ footer: true
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Spencer Amann" class="right" /><p class="name"><a id="spencer-amann">Spencer Amann</a>  (Developer, Winter 2014 - Present)</p>
+> <img src="/images/team/spencer-amann.jpg" alt="Spencer Amann" class="right" /><p class="name"><a id="spencer-amann">Spencer Amann</a>  (Developer, Winter 2014 - Present)</p>
 > Spencer started working with GVTools in Winter 2014. His main interests in joining were to learn to develop in a team and to learn Python in depth outside of class. He has been attending GVSU since the Fall of 2012 for a major in Computer Science as well as a minor in Business. While not in school, reading Marvel Comics, programming, tinkering with software, cycling, and long boarding are the hobbies best enjoyed by Spencer. His favorite catch phrase is: 'Hulk smash!' said by none other than The Incredible Hulk.
 
 <!-- This comment serves to break up the block quote -->
