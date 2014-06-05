@@ -28,7 +28,7 @@ footer: true
 <!-- This comment serves to break up the block quote -->
 > %member%
 > <img src="http://placekitten.com/200/200" alt="Eric VanKlompenberg" class="right" /><p class="name"><a id="eric-vanklompenberg">Eric VanKlompenberg</a>  (Developer, Fall 2013 - Present)</p>
-> Eric joined GVTools in Fall 2013. He is working on a BS in Computer Science. He is also a proud member of the Laker Marching Band. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
+> Eric joined the GVTools team in Fall 2013. He wanted to join because it gave him something to do. He is working on a BS in Computer Science at GVSU. He is also a member of the Laker Marching Band for 2 years. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
 
 <!-- This comment serves to break up the block quote -->
 > %member%
