@@ -28,7 +28,7 @@ footer: true
 <!-- This comment serves to break up the block quote -->
 > %member%
 > <img src="http://placekitten.com/200/200" alt="Eric VanKlompenberg" class="right" /><p class="name"><a id="eric-vanklompenberg">Eric VanKlompenberg</a>  (Developer, Fall 2013 - Present)</p>
-> Eric joined the GVTools team in Fall 2013, because the team's project, BetterPlanner, was interesting. Currently, he is working on a BS in Computer Science at GVSU. Eric is also a member of the Laker Marching Band. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
+> Eric joined the GVTools team in Fall 2013. He joined because of his interest in Python and BetterPlanner, the team's main project. Currently, Eric is working on a BS in Computer Science at GVSU and is also a proud member of the Laker Marching Band. Some of Eric's hobbies include playing the trombone, playing video games, and working on cars.
 
 <!-- This comment serves to break up the block quote -->
 > %member%
