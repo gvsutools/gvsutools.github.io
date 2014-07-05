@@ -32,7 +32,7 @@ footer: true
 
 <!-- This comment serves to break up the block quote -->
 > %member%
-> <img src="http://placekitten.com/200/200" alt="Dan Kelch" class="left" /><p class="name"><a id="dan-kelch">Dan Kelch</a>  (Developer, Winter 2014 - Present)</p>
+> <img src="/images/team/daniel-kelch.jpg" alt="Dan Kelch" class="left" /><p class="name"><a id="dan-kelch">Dan Kelch</a>  (Developer, Winter 2014 - Present)</p>
 > Dan joined the GVTools team in December 2013. He came to GVSU with the intention of pursuing a career in the medical field. He was initially taking classes in preparation for nursing school, and was even a Certified Nursing Assistant (CNA). In early 2013, he changed his career path and switched degrees to computer science. He is planning on getting a degree in bioinformatics, to combine computer science and medicine. Dan loves to spend time outside backpacking, camping, mountain biking, skateboarding, and playing all kinds of sports. He also keeps busy building skateboards, knitting, playing several instruments, and looking at funny cat pictures on the internet.
 
 <!-- This comment serves to break up the block quote -->
