@@ -12,7 +12,7 @@ GVTools is a small organization started by GVSU Computer Science major Sean Fisk
 * Produce useful software for GVSU students that is usable by the general student population.
 * Give students participating in the organization an idea of what it is like to work with a team to build and release high-quality software.
 
-GVTools' primary product is BetterPlanner, a tool for scheduling and registration in a similar manner to MyBanner.
+GVTools' primary product is [BetterPlanner](/projects/better-planner/), a tool for scheduling and registration in a similar manner to myBanner.
 
 History
 -------
@@ -21,7 +21,7 @@ The idea of GVTools was hatched in 2011 when GVSU Computer Science major Sean Fi
 
 These problems served as an inspiration for Bluesuckit, an automated Bluesocket login manager written in C++/[Qt][qt]. However, the year after Bluesuckit development finished, GVSU switched to [802.1X][80211x] for wireless authentication. While this was a positive change, it obsoleted Bluesuckit for the most part and the program was never released. However, development of the program showed what it takes to develop a high-quality releasable product. GVSU still uses Bluesocket for their Ethernet-based Internet access.
 
-In Winter 2012, Sean began dabbling with what would become BetterPlanner, a piece of software which simplifies many tasks possible with MyBanner. In particular, Sean was keen to incorporate some of the best practices learned while interning at [Atomic Object][ao], a local software development company. A command-line search client was developed which could find courses based on keywords, for example, "Fall 2012 CIS 452".
+In Winter 2012, Sean began dabbling with what would become BetterPlanner, a piece of software which simplifies many tasks possible with myBanner. In particular, Sean was keen to incorporate some of the best practices learned while interning at [Atomic Object][ao], a local software development company. A command-line search client was developed which could find courses based on keywords; for example, "Fall 2012 CIS 452" would yield the "Operating Systems" courses.
 
 In Winter 2013, BetterPlanner was revived. Darin Douglass and Josh Edgcombe joined the team, and together with Sean they began re-writing BetterPlanner with a graphical interface and many best practices each had learned. [Python][python] and [PySide][pyside]/[Qt][qt] were chosen for language and graphical toolkit of implementation, respectively. Viewing of schedules was completed.
 
